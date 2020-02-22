@@ -20,3 +20,4 @@
   - Grey value variations
 - Compare Results
 - Final check?
+- DONT FORGET TO KEEP THE BLOG UP TO DATE
