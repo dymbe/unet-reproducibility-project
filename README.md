@@ -6,6 +6,7 @@
   - Upsampling
   - Copy and Crop (combine this)
   - Custom weight loss function
+  - What is the blogpost?
 - Build the blocks/operations of the network:
   - Conv 3x3
   - Max Pool
