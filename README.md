@@ -1,6 +1,6 @@
 # unet-reproducibility-project
 
-Roadmap todos:
+## Roadmap todos:
 - Get the data (ask the TA) 
 - Research: 
   - Upsampling
