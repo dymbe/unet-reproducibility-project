@@ -20,5 +20,5 @@
   - Rotation invariance
   - Grey value variations
 - Compare Results
-- Final check?
-- DONT FORGET TO KEEP THE BLOG UP TO DATE
+- Final validation of the model and the code
+- Write the blog post
